@@ -1,0 +1,13 @@
+Solid Principle 
+
+
+It was invented by Robert C.Martin.
+
+
+
+first principle 
+
+Singlle responsibility principle
+
+A class should have only one reason to change.
+
